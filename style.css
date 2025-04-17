@@ -16,10 +16,6 @@ body{
     text-align: left;
 }
 
-.content1{
-    /* border: 1px solid black; */
-}
-
 .content1 img{
     height: 100px;
     width: 100px;
@@ -48,6 +44,7 @@ h2 a{
 p{
     color: gray;
     margin-bottom: 20px;
+    word-spacing: 2px;
     font-size: 20px;
 }
 
